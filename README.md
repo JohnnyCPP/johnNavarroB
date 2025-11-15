@@ -1,5 +1,4 @@
 ### Hello there!
-###### Yes, this is a Star Wars reference.
 
 I'm Johnny, student at 42 Madrid. A curious learner passionate about science and technology.
 
